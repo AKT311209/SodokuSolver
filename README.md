@@ -19,7 +19,7 @@ This is a Python-based Sudoku Solver application with a graphical user interface
     ```
 2. Navigate to the project directory:
     ```sh
-    cd sudoku-solver
+    cd SodokuSolver
     ```
 
 ## Usage
