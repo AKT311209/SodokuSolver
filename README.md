@@ -15,7 +15,7 @@ This is a Python-based Sudoku Solver application with a graphical user interface
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/AKT311209/sudoku-solver.git
+    git clone https://github.com/AKT311209/SodokuSolver.git
     ```
 2. Navigate to the project directory:
     ```sh
