@@ -30,7 +30,7 @@ This is a Python-based Sudoku Solver application with a graphical user interface
     ```
 2. Input the Sudoku puzzle into the grid.
 3. Click the "Solve" button to solve the puzzle.
-4. Use the "Random!" button to fill the grid with a random puzzle. It can be clicked multiple time.
+4. Use the "Random!" button to fill the grid with a random puzzle. It can be clicked multiple times.
 5. Use the "Clear" button to clear the grid.
 6. Adjust the delay (in milliseconds) to control the speed of the solving visualization.
 
