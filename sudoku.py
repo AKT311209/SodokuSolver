@@ -4,7 +4,6 @@ from tkinter import messagebox
 import random
 import heapq
 
-# ...existing code...
 class SudokuUI:
     def __init__(self, root):
         self.root = root
